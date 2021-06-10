@@ -16,7 +16,7 @@
 
 **:school_satchel: Learning:** Redux, Node
 
-**:computer: Languages:** C#, Javascript
+**:computer: Languages:** C#, JavaScript
 
 **:computer: Frameworks:** .net, Angular, React
 
