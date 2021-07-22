@@ -20,7 +20,7 @@
 
 **:computer: Frameworks:** .net, Angular, React
 
-**:heart: Hobbies:** Philosophy, Litterature, Movies, Music, Guitar
+**:heart: Hobbies:** Philosophy, Literature, Movies, Music, Guitar
 
 **:office: Organisation:** Keeps changing
 
